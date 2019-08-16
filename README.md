@@ -8,7 +8,7 @@ python rev.py <hostname> <port>
 run "netcat -lp <port>"
 
 # how to import and use in your own python code
-import <location of your rev.py file>
+import \<location of your rev.py file\>
   
 ...
 
